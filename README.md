@@ -119,4 +119,5 @@ I finally randomly shuffled the data set and put 20% of the data into a validati
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. The ideal number of epochs was 10. I used an adam optimizer so that manually training the learning rate wasn't necessary.
 
-Here's a [link to my video result](./run1.mp4)
+Here's my output:
+[video_gif](<iframe src="https://giphy.com/embed/eRH1equM8wfUnS9fBL" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/eRH1equM8wfUnS9fBL">via GIPHY</a></p>)
