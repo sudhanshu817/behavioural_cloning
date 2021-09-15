@@ -119,5 +119,7 @@ I finally randomly shuffled the data set and put 20% of the data into a validati
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. The ideal number of epochs was 10. I used an adam optimizer so that manually training the learning rate wasn't necessary.
 
-Here's my output:
+### Here's my output:
+
 ![video_gif](https://github.com/sudhanshu817/behavioural_cloning/blob/main/output1.gif)
+![video_gif](https://github.com/sudhanshu817/behavioural_cloning/blob/main/output2.gif)
